@@ -1,0 +1,10 @@
+body {
+  background-color: #ccc;
+  width: 10px;
+}
+footer {
+  background-color: green;
+  height: calc(100% - 600px);
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm1haW4ubGVzcyIsImZvb3Rlci5sZXNzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBQ0Usc0JBQUE7RUFDQSxXQUFBOztBQ0ZGO0VBQ0UsdUJBQUE7RUFDQSwwQkFBQSIsInNvdXJjZXNDb250ZW50IjpbIkBncmF5OiAjY2NjO1xyXG5cclxuYm9keSB7XHJcbiAgYmFja2dyb3VuZC1jb2xvcjogQGdyYXk7XHJcbiAgd2lkdGg6IDEwcHg7XHJcbn1cclxuXHJcblxyXG5AaW1wb3J0ICcuL2Zvb3Rlcic7XHJcbiIsIkBncmVlbjogZ3JlZW47XHJcblxyXG5mb290ZXIge1xyXG4gIGJhY2tncm91bmQtY29sb3I6IEBncmVlbjtcclxuICBoZWlnaHQ6IH5cImNhbGMoMTAwJSAtIDYwMHB4KVwiO1xyXG59XHJcbiJdLCJmaWxlIjoibWFpbi5jc3MifQ== */
